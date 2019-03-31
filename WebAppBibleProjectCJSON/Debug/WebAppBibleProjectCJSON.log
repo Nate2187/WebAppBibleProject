@@ -1,0 +1,5 @@
+﻿  WebAppBibleProjectCJSON.cpp
+c:\users\tim\source\repos\webappbibleprojectcjson\webappbibleprojectcjson\webappbibleprojectcjson.cpp(149): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\tim\source\repos\webappbibleprojectcjson\webappbibleprojectcjson\webappbibleprojectcjson.cpp(149): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\tim\source\repos\webappbibleprojectcjson\webappbibleprojectcjson\webappbibleprojectcjson.cpp(165): warning C4715: 'parse_object': not all control paths return a value
+  WebAppBibleProjectCJSON.vcxproj -> c:\users\tim\source\repos\WebAppBibleProjectCJSON\Debug\WebAppBibleProjectCJSON.exe
